@@ -30,8 +30,9 @@ Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão
 
 
 ## Um pouco sobre mim
-<p>🧪⚙️ Sou formado em Engenharia Química desde 2021 pelas Faculdades Oswaldo Cruz, tenho um MBA em Gestão de processos pela Universidade Anhembi-Morumdi.</p>
-<p>De 2023 pra cá tive meu primeiro contato com programação através de *lives*, blogs, vídeos e indicações de área e decidi migrar de carreira e começar aos poucos contruir a minha nova carreira em uma área que sempre tive interesse em explorar e aprender.</p>
+<p>🧪⚙️ Sou formado em Engenharia Química desde 2021 pelas Faculdades Oswaldo Cruz, tenho um MBA em Gestão de processos pela Universidade Anhembi-Morumbi.</p>
+<p>De 2023 pra cá tive meu primeiro contato com programação através de *lives*, blogs, vídeos e indicações de área e decidi migrar de carreira e começar aos poucos construir a minha nova carreira em uma área que sempre tive interesse em explorar e aprender.</p>
+<p>Desde então, tem sido aprenas aprendizados atrás de aprendizados. Me apaixonei pela área de Front-End, e busco aos poucos ganhar experiência nesse novo mundo que é a programação para mim.</p>
 
 
 
