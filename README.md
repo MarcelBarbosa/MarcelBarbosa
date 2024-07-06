@@ -41,6 +41,7 @@ Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão
 * Javascript
 * WordPress
 * React
+* Git / Github
 
 ### 📘 Estudos e planos futuros :  
 
