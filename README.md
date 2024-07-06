@@ -1,70 +1,58 @@
-# Marcel Felipe Barbosa
-<img src="./coffee-beans.png" alt="ícone de grãos de café"/>
+<img src="./assets/3535188_cafe_coffee_cup_drink_fresh_icon.png" alt="ícone de um copo de café" width="128px" align="right">
 
-## Headers
+</br>
+</br>
+</br>
+</br>
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+# *Marcel Felipe Lombardi Barbosa*
 
-## Emphasis
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-_You **can** combine them_
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
-
-## Images
-
-<div>
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<div style="display: flex; gap: 16px; ">
+<a href="https://www.linkedin.com/in/marcel-barbosa-741b53193/"><img src="./assets/670432_linkedin_in_linked_media_social_icon.png" alt="linkedin" width="56"/></a>
+<a href="https://www.facebook.com/marcel.felipe.5477/"><img src="./assets/3225194_app_facebook_logo_media_popular_icon.png" alt="facebook" width="56"/></a>
+<a href="https://www.instagram.com/marcelflb/"><img src="./assets/6636566_instagram_social media_social network_icon.png" alt="instagram" width="56"/></a>
+<a href="https://steamcommunity.com/id/marcelsetsuna/"><img src="./assets/4177739_games_gaming_steam_icon.png" alt="Steam" width="56"/></a>
+<a href="https://discordapp.com/users/marcelbarbosa"><img src="./assets/2308078_discord_logo_icon.png" alt="Discord" width="56"/></a>
 </div>
-          
+</br>
 
-## Links
+<a href= "mailto:marcel.setsuna@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="right">Sinta-se livre para entrar em contato comigo pelos links !
+</p>
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
-## Blockquotes
+</br>
+</br>
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+## **Olá Devs cafeínados !**
+Tenho 27 anos, sou e moro em Guarulhos/SP, Desenvolvedor Front-End há alguns meses (ainda ganhando experiência nessa vida). Amo café, gatos, games e adoro programação ☕💜</br></br>
+Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão detalhados aqui no Github, sejam livres para olhá-los !
 
-## Tables
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+## Um pouco sobre mim
+<p>🧪⚙️ Sou formado em Engenharia Química desde 2021 pelas Faculdades Oswaldo Cruz, tenho um MBA em Gestão de processos pela Universidade Anhembi-Morumdi.</p>
+<p>De 2023 pra cá tive meu primeiro contato com programação através de *lives*, blogs, vídeos e indicações de área e decidi migrar de carreira e começar aos poucos contruir a minha nova carreira em uma área que sempre tive interesse em explorar e aprender.</p>
 
-## Blocks of code
 
-```
-let message = 'Hello world';
-alert(message);
-```
 
-## Inline code
+### ⌨️ Linguagens, frameworks e bibliotecas conhecidos :
 
-This web site is using `markedjs/marked`.
+* HTML e CSS
+* Javascript
+* WordPress
+* React
+
+### 📘 Estudos e planos futuros :  
+
+* TypeScrypt
+* Angular
+* Vue.js
+* Ter um PC melhor :D
+<hr>
+</br>
+</br>
+</br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelBarbosa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelBarbosa&layout=compact&theme=radical)
