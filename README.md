@@ -49,6 +49,7 @@ Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão
 * TypeScrypt
 * Angular
 * Vue.js
+* *JQuery
 * Ter um PC melhor :D
 <hr>
 </br>
