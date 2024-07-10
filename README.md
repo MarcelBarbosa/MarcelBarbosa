@@ -39,9 +39,12 @@ Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão
 ### ⌨️ Linguagens, frameworks e bibliotecas conhecidos :
 
 * HTML e CSS
+* Bootstrap e Tailwind
 * Javascript
+* Node.js com alguns frameworks como Express e Webpack
+* Arquitetura MVC
 * WordPress
-* React
+* React.js
 * Git / Github
 
 ### 📘 Estudos e planos futuros :  
@@ -49,7 +52,7 @@ Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão
 * TypeScrypt
 * Angular
 * Vue.js
-* *JQuery
+* JQuery
 * Ter um PC melhor :D
 <hr>
 </br>
