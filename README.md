@@ -50,9 +50,10 @@ Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão
 ### 📘 Estudos e planos futuros :  
 
 * TypeScrypt
-* Angular
-* Vue.js
 * JQuery
+* API Rest
+* Vue.js
+* Angular
 * Ter um PC melhor :D
 <hr>
 </br>
