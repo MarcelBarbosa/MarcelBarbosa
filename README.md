@@ -42,15 +42,15 @@ Todos os meus projetos e porfólios desenvolvidos por estudos ou pessoais estão
 * Bootstrap e Tailwind
 * Javascript e Typescript
 * Node.js
-* Arquitetura MVC
-* WordPress
 * React.js
+* Vue.js
+* Angular
+* WordPress
 * Git / Github
 
 ### 📘 Estudos e planos futuros :  
 
 * Next.js
-* Angular
 * Ter um PC melhor :D
 <hr>
 </br>
